@@ -13,7 +13,6 @@ letitbit.net###dw_pointer
 prndl.ru##.bigBanner
 auto.mail.ru##td[class="daynews__banner"]
 auto.mail.ru##.rb_6016>.shadow
-auto.mail.ru##.box
 auto.mail.ru##a[class*="promo promo_full"] 
 tapochek.net##a[href*="firstvds.ru/products/vds_vps_cheap/?aid="]
 zastavki.com##.row-fluid.center

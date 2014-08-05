@@ -10,7 +10,7 @@
 ||moevideo.net^$third-party
 ||socialmart.ru/init.php? $domain=mobiset.ru
 mobiset.ru##.smw2 
-||dorogi.od.ua^$third-party
+||dorogi.od.ua^$third-party,domain=timer.od.ua
 ||igrayvmeste.ru^$third-party	
 ||holm.ru^$third-party	
 ||rublevodom.ru^$third-party 	 

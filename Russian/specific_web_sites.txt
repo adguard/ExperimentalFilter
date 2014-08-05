@@ -3,6 +3,7 @@
 ! This section contain any type of rule grouped by domain.
 !
 !
+||dvornika.net/images/baner.png
 unionpeer.org#$#.bg-image { background-image: url(dummy.jpg)!important;}
 unionpeer.org###br_block
 unionpeer.org#$#body { padding: 0px!important;}
